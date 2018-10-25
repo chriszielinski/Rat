@@ -18,7 +18,8 @@ Rat 🐀
 		<img alt="GitHub license" src ="https://img.shields.io/badge/license-MIT-blue.svg"/>
 	</a>
 	<br>
-	<img src ="https://raw.githubusercontent.com/chriszielinski/Rat/master/readme-assets/Rat.gif"/>
+	<br>
+	<img style="width:400px" src="https://raw.githubusercontent.com/chriszielinski/Rat/master/readme-assets/Rat.gif"/>
 	<br>
 	<br>
 	Animated <code>NSCursor</code>s for macOS. Written in Swift.
